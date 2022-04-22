@@ -1,0 +1,12 @@
+package com.jap.bookstore;
+
+public class Author {
+    // Implement data hiding by declaring member variables private
+
+    String authorName;
+    String authorPenName;
+
+    //Declare getter and setter methods
+
+
+}

@@ -1,0 +1,16 @@
+package com.wipro.oopsex;
+
+public class Employee {
+    
+	 // Encapsulation ->  wrapping of data and code
+	 // Access Modifiers - public private protected default
+	 // Data hiding
+	 public int id;
+	 public String name;
+	 public long phone;
+	 private String aadharNumber;
+	 private String panNumber;
+	 private String accountNumber;
+	
+	
+}

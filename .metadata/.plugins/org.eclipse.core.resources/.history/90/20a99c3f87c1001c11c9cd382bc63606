@@ -1,0 +1,5 @@
+package com.wipro.bookstore;
+
+public class Author {
+
+}

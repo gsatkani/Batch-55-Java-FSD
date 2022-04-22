@@ -1,0 +1,57 @@
+package com.wipro.customer;
+
+public class Customer {
+
+	public int id;
+	public String name;
+	public long phone;
+	
+	// Customer Has A Address  - >  Relation Between two classes
+	// Has A RelationShip
+	public Address homeAddress;
+	
+	public Customer(int id,String name,long phone,Address address) {
+		this.id=id;
+		this.name=name;
+		this.phone=phone;
+		this.homeAddress=address;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public long getPhone() {
+		return phone;
+	}
+
+	public void setPhone(long phone) {
+		this.phone = phone;
+	}
+
+	public Address getHomeAddress() {
+		return homeAddress;
+	}
+
+	public void setHomeAddress(Address homeAddress) {
+		this.homeAddress = homeAddress;
+	}
+	
+	// Generate Getter and Setters
+	
+	
+	
+	
+}

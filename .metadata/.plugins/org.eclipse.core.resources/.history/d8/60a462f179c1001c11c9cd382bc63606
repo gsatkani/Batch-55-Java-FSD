@@ -1,0 +1,24 @@
+package com.wipro.customer;
+
+public class Address {
+
+	private int houseNo;
+	private String streetName;
+	private String city;
+	private int pincode;
+	
+	// Default Constructor
+	public Address() {
+		
+	}
+	// Parameterized Constructor
+	public Address(int houseno,String street,String city,int pin) {
+		this.houseNo=houseno;
+		this.streetName=street;
+		this.city=city;
+		this.pincode=pin;
+	}
+	
+	
+	
+}

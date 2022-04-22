@@ -1,0 +1,29 @@
+package com.wipro.customer;
+
+import java.util.Scanner;
+
+public class CustomerMain {
+
+	public static void main(String[] args) {
+		
+		// Parameterized Constructor
+		Address address=new Address(115,"Anna Nagar","Krishnagiri",635112);
+		Customer customer=new Customer(101,"Karthick",988224222, address);
+		customer.displayCustomerDetails();
+		
+       	Scanner scanner=new Scanner(System.in);
+       	Customer cust=new Customer();
+       	System.out.println("Enter the Id");
+       	cust.setId(scanner.nextInt());
+		System.out.println("Enter the Name");
+		cust.setName(scanner.next());
+		System.out.println("Enter the Phone");
+		cust.setPhone(scanner.nextLong());
+		
+		
+		
+		
+	}
+	
+	
+}

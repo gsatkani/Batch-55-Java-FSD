@@ -1,0 +1,13 @@
+package com.wipro.oopsex;
+
+public class Employee {
+    
+	 int empId;
+	 String empName;
+	 long phone;
+	 String aadharNumber;
+	 String panNumber;
+	 String accountNumber;
+	
+	
+}

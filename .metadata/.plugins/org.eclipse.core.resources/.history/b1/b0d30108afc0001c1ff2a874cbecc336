@@ -1,0 +1,26 @@
+package com.wipro.oopsex;
+
+// class and object / methods
+public class Mobile {
+    // Instance Variable - declared inside the class and outside any method
+	// state or data
+	String model;
+	String brand;
+	int ram;
+	double price;
+	String processor;
+
+	// Behavior  - Instance Method
+	public void communication() {
+		System.out.println("Used for Communication");
+	}
+	public void entertainment() {
+		System.out.println("Social Media App");
+	}
+    // Entry point for Java Program - JVM(Java Virtual Machine)
+	public static void main(String[] xyz) {
+		// Create an Object for Mobile Class
+		Mobile samsung=new Mobile();
+	}
+	
+}

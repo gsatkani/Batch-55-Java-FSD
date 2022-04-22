@@ -1,0 +1,18 @@
+package com.wipro.oopsex;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Employee empTwo=new Employee();
+        empTwo.id=102;
+        empTwo.name="Vijay";
+        empTwo.phone=98766333;
+        empTwo.aadharNumber="12121";
+        
+    }
+}

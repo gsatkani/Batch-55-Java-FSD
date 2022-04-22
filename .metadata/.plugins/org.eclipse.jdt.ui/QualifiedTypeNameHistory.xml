@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="com.jap.areacalculator.AreaCalculator"/>
+    <fullyQualifiedTypeName name="com.wipro.basic.Employee"/>
+    <fullyQualifiedTypeName name="com.wipro.oopsex.Calculator"/>
+    <fullyQualifiedTypeName name="com.wipro.oopsex.Employee"/>
+    <fullyQualifiedTypeName name="com.wipro.employee.Employee"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.wipro.customer.Customer"/>
+    <fullyQualifiedTypeName name="com.wipro.customer.Address"/>
+    <fullyQualifiedTypeName name="com.jap.bookstore.Book"/>
+    <fullyQualifiedTypeName name="com.jap.bookstore.Author"/>
+    <fullyQualifiedTypeName name="com.jap.bookstore.Bookstore"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,10 @@
+package com.wipro.oopsex;
+// class ->  template or blueprint to create the object
+public class Calculator {
+	// Instance variable
+	public int first;
+	public int second;
+	
+	
+
+}

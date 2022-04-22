@@ -1,0 +1,20 @@
+package com.jap.bookstore;
+
+public class Book {
+    // Implement data hiding by declaring member variables private
+    private int ISBNNo;
+    private String bookName;
+    private Author author;
+    private String genre;
+    private float price;
+
+    // Declare getter and setter methods
+
+    // Method to display the details of a book
+    public String displayBookDetails()
+    {
+        return "";
+    }
+
+
+}

@@ -1,0 +1,14 @@
+package com.wipro.product;
+
+public class ProductStore {
+	
+	// Calculate the discouted Price
+	
+	public Product[] getDiscountedPrice(Product[] list) { 
+		
+		
+		return null;
+	}
+	
+
+}

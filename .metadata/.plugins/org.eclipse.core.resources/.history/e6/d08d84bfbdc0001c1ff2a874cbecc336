@@ -1,0 +1,31 @@
+package com.wipro.oopsex;
+
+public class Employee {
+    
+	 // Encapsulation ->  wrapping of data and code
+	 // Access Modifiers - public private protected default
+	 // Data hiding
+	 public int id;
+	 public String name;
+	 public long phone;
+	 private String aadharNumber;
+	 private String panNumber;
+	 private String accountNumber;
+	 
+	 public static void main(String[] args) {
+		
+		 Employee empOne=new Employee();
+		 empOne.id=101;
+		 empOne.name="Siva";
+		 empOne.aadharNumber="1212121212";
+		 empOne.accountNumber="987665555";
+		 empOne.panNumber="jjbaj5615261";
+		 
+		 System.out.println(empOne.aadharNumber);
+		 System.out.println(empOne.accountNumber);
+		 System.out.println(empOne.panNumber);
+		 
+		 
+	}
+	
+}

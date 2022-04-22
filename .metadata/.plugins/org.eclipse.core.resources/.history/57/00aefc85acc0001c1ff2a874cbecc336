@@ -1,0 +1,13 @@
+package com.wipro.oopsex;
+// class and object / methods
+public class Mobile {
+
+	//state  or data
+	String model;
+	String brand;
+	int ram;
+	double price;
+	String processor;
+	
+	
+}

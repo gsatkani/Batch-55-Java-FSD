@@ -1,0 +1,19 @@
+package com.wipro.bookstore;
+
+public class Book {
+
+	String isbnNo;
+	String bookName;
+	String genre;
+	double price;
+	// Book Has A Author
+	
+	Author author;
+	
+	
+	
+	
+	
+	
+	
+}
