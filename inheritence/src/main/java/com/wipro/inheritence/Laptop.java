@@ -1,7 +1,7 @@
 package com.wipro.inheritence;
 
 // Super Class
-public class Laptop {
+public  class Laptop {
 
 	protected String brand;
 	protected int ram;
