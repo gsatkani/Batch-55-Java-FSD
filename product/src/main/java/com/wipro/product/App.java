@@ -8,8 +8,6 @@ import java.util.Scanner;
  */
 public class App {
 
-	int[] no = new int[100];// store 100 integer numbers
-
 	public static void main(String[] args) {
 		Product[] productList = null; // store 100 Product Object
 		Scanner scanner = new Scanner(System.in);
