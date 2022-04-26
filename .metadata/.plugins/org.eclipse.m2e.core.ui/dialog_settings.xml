@@ -25,6 +25,8 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.wipro.inheritence"/>
+			<item value="com.wipro.product"/>
 			<item value="com.wipro.bookstore"/>
 			<item value="com.wipro.employee"/>
 			<item value="com.wipro.oopsex"/>
@@ -34,6 +36,8 @@
 			<item value="com.wipro"/>
 		</list>
 		<list key="artifactId">
+			<item value="inheritence"/>
+			<item value="product"/>
 			<item value="bookstore"/>
 			<item value="employee"/>
 			<item value="oopsex"/>

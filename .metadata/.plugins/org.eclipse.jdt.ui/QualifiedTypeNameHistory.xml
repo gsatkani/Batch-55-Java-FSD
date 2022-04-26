@@ -6,11 +6,17 @@
     <fullyQualifiedTypeName name="com.wipro.oopsex.Calculator"/>
     <fullyQualifiedTypeName name="com.wipro.oopsex.Employee"/>
     <fullyQualifiedTypeName name="com.wipro.employee.Employee"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="com.wipro.customer.Customer"/>
     <fullyQualifiedTypeName name="com.wipro.customer.Address"/>
     <fullyQualifiedTypeName name="com.jap.bookstore.Book"/>
     <fullyQualifiedTypeName name="com.jap.bookstore.Author"/>
     <fullyQualifiedTypeName name="com.jap.bookstore.Bookstore"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="com.wipro.product.Product"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.wipro.product.ProductStore"/>
+    <fullyQualifiedTypeName name="com.wipro.inheritence.AndroidKitKat"/>
+    <fullyQualifiedTypeName name="com.wipro.inheritence.Android13"/>
+    <fullyQualifiedTypeName name="com.wipro.inheritence.Dell"/>
+    <fullyQualifiedTypeName name="com.wipro.inheritence.Laptop"/>
 </qualifiedTypeNameHistroy>
