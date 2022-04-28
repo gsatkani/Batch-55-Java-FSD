@@ -9,6 +9,7 @@ public class Addition {
 		return x+y;
 	}
 	
+
 	public int addition (int x,int y,int z) { // 3 
 		return x+y+z;
 	}

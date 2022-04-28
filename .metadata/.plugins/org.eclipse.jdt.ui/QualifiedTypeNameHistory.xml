@@ -25,6 +25,15 @@
     <fullyQualifiedTypeName name="com.wipro.areashape.Rectangle"/>
     <fullyQualifiedTypeName name="com.wipro.polymorphism.Addition"/>
     <fullyQualifiedTypeName name="com.wipro.polymorphism.Vechile"/>
-    <fullyQualifiedTypeName name="java.lang.Override"/>
     <fullyQualifiedTypeName name="com.wipro.polymorphism.Car"/>
+    <fullyQualifiedTypeName name="java.lang.Override"/>
+    <fullyQualifiedTypeName name="com.wipro.apriltwentyeight.ThisExample"/>
+    <fullyQualifiedTypeName name="com.wipro.apriltwentyeight.SuperExample"/>
+    <fullyQualifiedTypeName name="com.wipro.apriltwentyeight.Color"/>
+    <fullyQualifiedTypeName name="org.junit.Test"/>
+    <fullyQualifiedTypeName name="org.junit.Before"/>
+    <fullyQualifiedTypeName name="com.wipro.junit.Factorial"/>
+    <fullyQualifiedTypeName name="org.junit.After"/>
+    <fullyQualifiedTypeName name="org.junit.BeforeClass"/>
+    <fullyQualifiedTypeName name="org.junit.AfterClass"/>
 </qualifiedTypeNameHistroy>
