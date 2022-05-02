@@ -1,0 +1,22 @@
+Practice Problems 
+For Query @9.30pm
+
+
+    1. Encapsualtion - Access Modifiers (public private protected)  - hide the data
+   
+    2. Inheritence (Is A ) -> Using extends keyword  ->  Reuse Data   
+
+    3. Data Abstraction -> Hiding Implementation / shows functionality
+           1.abstract class
+           2.Interface
+
+   4. PolyMorphism -  same name / different action  - ReUse Data
+
+          1. Method Overloading -  CompileTime Polymorphism
+
+
+          2. Method Overriding  -  Runtime Polymorphism 
+
+                  Same method  both in superclass and subclass 
+                   
+                 IS A relationship

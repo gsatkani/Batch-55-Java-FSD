@@ -25,6 +25,7 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="com.wipro.exceptionhandling"/>
 			<item value="com.wipro.junit"/>
 			<item value="com.wipro.apriltwentyeight"/>
 			<item value="com.wipro.bankaccount"/>
@@ -39,6 +40,7 @@
 			<item value="com.wipro"/>
 		</list>
 		<list key="artifactId">
+			<item value="exceptionhandling"/>
 			<item value="junit"/>
 			<item value="apriltwentyeight"/>
 			<item value="bankaccount"/>
