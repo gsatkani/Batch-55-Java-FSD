@@ -12,7 +12,9 @@ import java.io.InputStreamReader;
  */
 public class App {
 	public static void main(String[] args) {
+		// Reads text from a character-input stream, buffering characters so as toprovide for the efficient reading of characters, arrays, and lines. 
 		BufferedReader reader = null;
+		//Reads text from character files using a default buffer size
 		FileReader fr = null;
 		try {
 			fr = new FileReader("data.txt");
