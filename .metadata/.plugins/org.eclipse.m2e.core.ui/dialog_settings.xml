@@ -86,6 +86,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Wipro Velocity\jap_c4_s3_filehandling_pc1"/>
+			<item value="D:\Wipro Velocity\jap_c3_s6_abstractclassandinterface_pc2"/>
 			<item value="C:\Users\sathish.g\Desktop\Wipro Challenge\jap_c3_s3_implementingencapsulation_pc1"/>
 			<item value="C:\Users\sathish.g\Desktop\Eveneing Wipro Batch\jap_c3_s2_encapsulationandabstraction_pc1"/>
 			<item value="C:\Users\sathish.g\Desktop\Wipro Velocity Exercise Problems\jap_c1_s6_functions_pc1"/>

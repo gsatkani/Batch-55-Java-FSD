@@ -1,10 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="java.lang.String"/>
-    <fullyQualifiedTypeName name="com.jap.areacalculator.AreaCalculator"/>
-    <fullyQualifiedTypeName name="com.wipro.basic.Employee"/>
-    <fullyQualifiedTypeName name="com.wipro.oopsex.Calculator"/>
-    <fullyQualifiedTypeName name="com.wipro.oopsex.Employee"/>
     <fullyQualifiedTypeName name="com.wipro.employee.Employee"/>
     <fullyQualifiedTypeName name="com.wipro.customer.Customer"/>
     <fullyQualifiedTypeName name="com.wipro.customer.Address"/>
@@ -50,13 +45,19 @@
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="com.wipro.userdefined.EmployeeNotFoundException"/>
     <fullyQualifiedTypeName name="com.wipro.userdefined.Employee"/>
-    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
-    <fullyQualifiedTypeName name="java.lang.System"/>
     <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
-    <fullyQualifiedTypeName name="java.io.IOException"/>
-    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
     <fullyQualifiedTypeName name="com.wipro.filehandling.EmployeeMain"/>
-    <fullyQualifiedTypeName name="java.io.FileReader"/>
     <fullyQualifiedTypeName name="com.wipro.filehandling.Employee"/>
     <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="com.jap.furniture.IFurniture"/>
+    <fullyQualifiedTypeName name="com.jap.furniture.Furniture"/>
+    <fullyQualifiedTypeName name="com.jap.furniture.Bookshelf"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.jap.furniture.FurnitureType"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
 </qualifiedTypeNameHistroy>
